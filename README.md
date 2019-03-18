@@ -17,3 +17,10 @@ Categorical, Integer
 
 Yes
 
+# Data Cleaning 
+
+
+# Exploratory Analysis
+
+
+# Algorithim 
