@@ -1,5 +1,19 @@
-The New York city school bus dataset has 268018 observations of 21 variables This is highly categorical dataset with multiple levels present for different attributes.
-Dataset Characteristics: Multivariate
-Attribute Characteristics: Categorical, Integer
-Missing Values: Yes
+ # New York city school bus Dataset 
+ 
+ 
+1. 268018 observations 21 variables 
+
+2. Highly categorical dataset with multiple levels present for different attributes.
+
+# Dataset Characteristics: 
+
+Multivariate
+
+# Attribute Characteristics: 
+
+Categorical, Integer
+
+# Missing Values: 
+
+Yes
 
